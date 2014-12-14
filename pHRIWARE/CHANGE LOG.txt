@@ -42,6 +42,8 @@
 > demo_hal updated
 > demo_hal2 updated
 > demo_collisions updated
++ plot3d method of HAL overloaded to use collision models
++ addCM method of HAL added for plot3d
 
 ------------------------------
          VERSION  0.2
